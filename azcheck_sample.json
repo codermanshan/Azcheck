@@ -1,0 +1,131 @@
+{
+  "marketplace": "amazon.ae",
+  "generated_at": "2026-09-22T08:46:10.051374+00:00",
+  "note": "Ranks come from Amazon Best Sellers (recent sales velocity). bought_past_month is Amazon's public badge when shown (approx. range). Exact competitor unit sales are not available via Seller Central / SP-API.",
+  "excluded": [
+    "appliances",
+    "large-appliances"
+  ],
+  "products": [
+    {
+      "category": "Electronics",
+      "rank": 1,
+      "asin": "B09HXG3J7P",
+      "title": "Duracell, AA 1.5V Alkaline Batteries, Pack of 20 - Last up to 100% longer",
+      "price_aed": 35.0,
+      "rating": 4.6,
+      "review_count": 2563,
+      "url": "https://www.amazon.ae/Duracell-1-5V-Alkaline-Batteries-Pack/dp/B09HXG3J7P/ref=zg_bs_g_electronics_d_sccl_1/701-0090658-7913018",
+      "bought_past_month": "1K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71mKFYJPiVL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 2,
+      "asin": "B07KWYGTC6",
+      "title": "Amazon Basics AA 1.5 Volt Performance Alkaline Batteries, 12-Pack (Packaging May Vary)",
+      "price_aed": 15.0,
+      "rating": 4.5,
+      "review_count": 407388,
+      "url": "https://www.amazon.ae/Amazon-Basics-AA-Performance-Batteries/dp/B07KWYGTC6/ref=zg_bs_g_electronics_d_sccl_2/701-0090658-7913018",
+      "bought_past_month": "1K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71rPdfcXSxL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 3,
+      "asin": "B07RNQV4ZH",
+      "title": "TOSHIBA Heavy Duty AAA 24 Battery Pack",
+      "price_aed": 16.5,
+      "rating": 4.3,
+      "review_count": 1377,
+      "url": "https://www.amazon.ae/TOSHIBA-Heavy-Duty-Battery-Pack/dp/B07RNQV4ZH/ref=zg_bs_g_electronics_d_sccl_3/701-0090658-7913018",
+      "bought_past_month": "1K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71hoBwu9PEL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 4,
+      "asin": "B0BFN3R989",
+      "title": "SALAMA 2 Year Extended Warranty Plan for Small Appliance/Tools/Kitchen Appliances/Watches (from AED0 to AED99.99) (Email Deli",
+      "price_aed": 0.0,
+      "rating": 3.0,
+      "review_count": 8,
+      "url": "https://www.amazon.ae/Extended-Warranty-Appliance-Appliances-AED99-99/dp/B0BFN3R989/ref=zg_bs_g_electronics_d_sccl_4/701-0090658-7913018",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/618+INpvxxL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 5,
+      "asin": "B0BTYCRJSS",
+      "title": "soundcore by Anker P20i Earbuds, 10mm Drivers, Big Bass, 30H | TWS Drivers 10mm Wireless Headset, 30H Playback, Water Resista",
+      "price_aed": 58.99,
+      "rating": 4.2,
+      "review_count": 114544,
+      "url": "https://www.amazon.ae/soundcore-Anker-P20i-Earbuds-Drivers/dp/B0BTYCRJSS/ref=zg_bs_g_electronics_d_sccl_5/701-0090658-7913018",
+      "bought_past_month": "1K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61KisviM-gL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 6,
+      "asin": "B0C7C8WVBW",
+      "title": "UGREEN 6-in-1 Surge Protector Power Strip with 3 AC Outlets & 3 USB Ports | PD30W (2C1A), charge multiple devices at once,mul",
+      "price_aed": 67.49,
+      "rating": 4.5,
+      "review_count": 1417,
+      "url": "https://www.amazon.ae/UGREEN-Surge-Protector-Power-Outlets/dp/B0C7C8WVBW/ref=zg_bs_g_electronics_d_sccl_6/701-0090658-7913018",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61Ib2BrohxL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 7,
+      "asin": "B0HJBD26DM",
+      "title": "Apple AirPods 5 with Wireless Charging Case Wireless Earbuds | Bluetooth Headphones, Wireless Charging Case, Active Noise Can",
+      "price_aed": 629.0,
+      "rating": null,
+      "review_count": null,
+      "url": "https://www.amazon.ae/Apple-AirPods-Wireless-Charging-Earbuds/dp/B0HJBD26DM/ref=zg_bs_g_electronics_d_sccl_7/701-0090658-7913018",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61qup19XCrL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 8,
+      "asin": "B088LM483X",
+      "title": "Duracell Lithium Coin Battery 3V, 4 Pieces (Cr2032)[Lasts Up To 100% Longer] & [Child Resistant Packaging] Silver",
+      "price_aed": 28.49,
+      "rating": 4.6,
+      "review_count": 2334,
+      "url": "https://www.amazon.ae/Duracell-Lithium-Battery-Resistant-Packaging/dp/B088LM483X/ref=zg_bs_g_electronics_d_sccl_8/701-0090658-7913018",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61ozayHQ4WL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 9,
+      "asin": "B09PRT7R2P",
+      "title": "1 Year Extended Warranty Plan for Small Appliance/Tools/Kitchen Appliances/Watches (from AED100 to AED199.99) (Email Delivery",
+      "price_aed": 100.0,
+      "rating": 4.0,
+      "review_count": 234,
+      "url": "https://www.amazon.ae/Extended-Warranty-Appliance-Appliances-AED199-99/dp/B09PRT7R2P/ref=zg_bs_g_electronics_d_sccl_9/701-0090658-7913018",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61SecaebB-L._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Electronics",
+      "rank": 10,
+      "asin": "B0FQFYMLS5",
+      "title": "Apple AIR PODS PRO 3 Wireless headphones with charging case. includes 5 ear tip sizes. compatible with USB - C , Apple watch,",
+      "price_aed": 779.0,
+      "rating": 4.0,
+      "review_count": 816,
+      "url": "https://www.amazon.ae/Apple-Wireless-headphones-charging-compatible/dp/B0FQFYMLS5/ref=zg_bs_g_electronics_d_sccl_10/701-0090658-7913018",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/61NLDbfFY1L._AC_UL300_SR300,200_.jpg"
+    }
+  ]
+}

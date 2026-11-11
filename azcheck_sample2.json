@@ -1,0 +1,71 @@
+{
+  "marketplace": "amazon.ae",
+  "generated_at": "2026-09-22T08:46:48.246264+00:00",
+  "note": "Ranks come from Amazon Best Sellers (recent sales velocity). bought_past_month is Amazon's public badge when shown (approx. range). Exact competitor unit sales are not available via Seller Central / SP-API.",
+  "excluded": [
+    "appliances",
+    "large-appliances"
+  ],
+  "products": [
+    {
+      "category": "Beauty",
+      "rank": 1,
+      "asin": "B08LHSBG3R",
+      "title": "Himalaya Since 1930 Purehands Hand Wash Soap, Tulsi & Aloe Vera, Antibacterial Protection Against Germs, 3x250ml",
+      "price_aed": 16.4,
+      "rating": 4.4,
+      "review_count": 2415,
+      "url": "https://www.amazon.ae/Himalaya-Purehands-Antibacterial-Protection-Against/dp/B08LHSBG3R/ref=zg_bs_g_beauty_d_sccl_1/701-2057446-9930353",
+      "bought_past_month": "4K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71JodnYwtUL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Beauty",
+      "rank": 2,
+      "asin": "B07N77NM82",
+      "title": "Johnson’s Pure Cotton Makeup Pads, Pack of 3x80 Rounded Pads, Crafted from Pure Cotton, Naturally Soft, Absorbent and Gentle,",
+      "price_aed": 18.55,
+      "rating": 4.6,
+      "review_count": 6317,
+      "url": "https://www.amazon.ae/Johnsons-Rounded-Naturally-Absorbent-Refreshing/dp/B07N77NM82/ref=zg_bs_g_beauty_d_sccl_2/701-2057446-9930353",
+      "bought_past_month": "4K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/716-WxhiNnL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Beauty",
+      "rank": 3,
+      "asin": "B0C6DQT3W3",
+      "title": "Nizoral® 2% Anti-Dandruff Shampoo, 100ml, Medical Treatment with Ketoconazole, Clinically Proven to Treat Dandruff, Flakes &",
+      "price_aed": 29.95,
+      "rating": 4.4,
+      "review_count": 1294,
+      "url": "https://www.amazon.ae/Nizoral%C2%AE-Anti-Dandruff-Treatment-Ketoconazole-Clinically/dp/B0C6DQT3W3/ref=zg_bs_g_beauty_d_sccl_3/701-2057446-9930353",
+      "bought_past_month": "7K+ bought in past month",
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71WejvGF6YL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Beauty",
+      "rank": 4,
+      "asin": "B09V7Z4TJG",
+      "title": "medicube Zero Pore Pads 2.0, Dual-Textured Facial Toner Pads for Exfoliation and Pore Care with 4.5% AHA Lactic Acid & 0.45%",
+      "price_aed": 42.95,
+      "rating": 4.6,
+      "review_count": 31756,
+      "url": "https://www.amazon.ae/medicube-Dual-Textured-Facial-Exfoliation-Salicylic/dp/B09V7Z4TJG/ref=zg_bs_g_beauty_d_sccl_4/701-2057446-9930353",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/71Mcspt-6AL._AC_UL300_SR300,200_.jpg"
+    },
+    {
+      "category": "Beauty",
+      "rank": 5,
+      "asin": "B07BXZSCRL",
+      "title": "Garnier Micellar Water, Cleansing & Makeup Remover, Sensitive Skin, 400 ml",
+      "price_aed": 23.8,
+      "rating": 4.6,
+      "review_count": 6472,
+      "url": "https://www.amazon.ae/Garnier-Micellar-Cleansing-Remover-Sensitive/dp/B07BXZSCRL/ref=zg_bs_g_beauty_d_sccl_5/701-2057446-9930353",
+      "bought_past_month": null,
+      "image_url": "https://images-eu.ssl-images-amazon.com/images/I/51P5q2FvAhL._AC_UL300_SR300,200_.jpg"
+    }
+  ]
+}

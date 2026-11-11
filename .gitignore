@@ -1,20 +1,15 @@
-# Python
 __pycache__/
 *.py[cod]
-*.egg-info/
+*$py.class
+.Python
+.env
 .venv/
 venv/
-.env
-
-# Local scan outputs / history
-data/
-*.csv
-*.json
-!requirements.txt
-!web/**
-
-# OS / editor
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
 .DS_Store
 Thumbs.db
-.idea/
-.vscode/
+*.log
+data/
