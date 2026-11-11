@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Local scan outputs / history
+data/
+*.csv
+*.json
+!requirements.txt
+!web/**
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
